@@ -1,6 +1,6 @@
 import TopNav from "./components/TopNav";
 
-function App() {
+const App = () => {
   return (
     <div className="">
       <TopNav />
