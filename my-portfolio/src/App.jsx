@@ -1,11 +1,13 @@
 import TopNav from "./components/TopNav";
-import Home from "./pages/Home";
+import Public from "./Route/Public";
+
+
 
 const App = () => {
   return (
     <div className="">
       <TopNav />
-      <Home />
+      <Public />
     </div>
   );
 }
