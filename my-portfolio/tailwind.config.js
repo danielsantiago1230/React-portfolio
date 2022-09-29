@@ -6,12 +6,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'blue-dark' : '#2FE0D6',
-        'green-semi-dark' : '#75E6E0',
-        'green-soft' : '#2FE0D8',
-        'green-light' : '#E6ADDD',
-        'gray-semi-dark' : '#A4A69C',
-        'gray-soft' : '#F5F5F5'
+        'blue-light' : '#75E6E0',
+        'pink-light' : '#E6ADDD'
       },
       fontFamily: {
         montserrat: ['Montserrat', 'sans-serif'],

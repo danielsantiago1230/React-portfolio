@@ -1,5 +1,5 @@
-import Home from "./components/Home";
 import TopNav from "./components/TopNav";
+import Home from "./pages/Home";
 
 const App = () => {
   return (
