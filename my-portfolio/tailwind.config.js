@@ -16,7 +16,8 @@ module.exports = {
       },
       backgroundImage: {
         'block': "url('./public/me.png')",
-        'tree' : "url('./public/tree.png')"
+        'tree' : "url('./public/tree.png')",
+        'background-404' : "url('./public/background-error-404.png')"
       }
     },
   },

@@ -1,7 +1,7 @@
 import burguer from '../public/burguer.png'
 import React,{useState} from "react"
 const TopNav = () => {
-const [active,setActive] =useState(true)
+const [active,setActive] =useState(false)
 
   return (
     <div className="text-3xl font-bold font-montserrat">

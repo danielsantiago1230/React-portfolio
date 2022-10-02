@@ -1,6 +1,7 @@
-import tree from '../public/tree.png'
-import tree2 from '../public/tree2.png'
-import start from '../public/button-start.png'
+import tree from "../public/tree.png"
+import tree2 from "../public/tree2.png"
+import start from "../public/button-start.png"
+
 const Home = () => {
   return (
     <main className="w-full h-screen flex flex-row items-end justify-end">
